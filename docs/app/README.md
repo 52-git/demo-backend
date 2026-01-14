@@ -17,4 +17,4 @@
 - `schemas/`: スキーマ置き場（現状は空のパッケージ）。
 
 ## 補足
-Socket.IO が必要ないケースでは `main.py` の `fastapi_app` を参照すると、純粋な FastAPI として扱えます。
+Socket.IO が必要ないケースでは `main.py` の `fastapi_app` を参照すると、純粋なFastAPI として扱えます。
